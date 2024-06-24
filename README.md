@@ -1,4 +1,4 @@
-# Model Deployment
+# ML Model Integration
 
 ```
 [https://replicate.com/demoiverrakada/bert-base-uncased](https://replicate.com/camenduru/instantmesh)
